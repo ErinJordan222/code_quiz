@@ -2,7 +2,7 @@
 
 ## Description
 Erin Jordan's Code Quiz week 4 Project for Denver University Coding Bootcamp.
-*
+* 
 
 ## Table of Contents
 * [Contact](#Contact)
