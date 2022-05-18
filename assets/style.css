@@ -7,13 +7,10 @@
 body {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-image: url('../images/brain.jpg');
-    /* background-color: #EE4C7C; */
 }
 
 .container {
   color: #9A1750;
-  /* -webkit-text-stroke-width: 1px;
--webkit-text-stroke-color: #9A1750; */
   padding: 3px;
   font-size: 24px;
 }
@@ -33,33 +30,6 @@ body {
     border-color: #9A1750;
 }
 
-/* .button {
-  margin-bottom: 12px;
-  font-size: 20px;
-  padding-top: 14px;
-  padding-bottom: 14px;
-  padding-left: 30;
-  padding-right: 50px;
-  color: #9A1750;
-  background-color: #E3AFBC;
-  border-radius: 5px;
-} */
-
-/* .button-option {
-  margin-bottom: 12px;
-  font-size: 20px;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  padding-left: 30;
-  padding-right: 50px;
-} */
-
-/* #start-button {
-  padding: 10px 30px;  
-  margin-left: 45%;
-  margin-top: 5%;
-} */
-
 #question {
   color: #9A1750;
   font-weight: bold;
@@ -68,18 +38,6 @@ body {
   margin-right: 25%;
   font-size: 32px;
 }
-
-/* .button {
-  margin-bottom: 12px;
-  font-size: 20px;
-  padding-top: 14px;
-  padding-bottom: 14px;
-  padding-left: 30;
-  padding-right: 50px;
-  color: #9A1750;
-  background-color: #E3AFBC;
-  border-radius: 5px;
-} */
 
 .button {
   display: inline-block;
@@ -134,17 +92,6 @@ width: 80%;
   padding-left: 10px;
 }
 
-/* .highscore {
-    color: white;
-    -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: #EE4C7C;
-    position: absolute;
-    font-size: 22px;
-    top: 10px;
-    left: 10px;
-    
-  } */
-
 #timer {
     color: white;
     -webkit-text-stroke-width: 1px;
@@ -155,9 +102,9 @@ width: 80%;
     right: 10px;
   }
 
-  /* @media only screen and (max-width: 600px) {
+  @media only screen and (max-width: 600px) {
     textarea {
       width: 65vw;
     }
   
-  } */
+  } 
