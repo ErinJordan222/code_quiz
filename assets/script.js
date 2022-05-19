@@ -38,7 +38,7 @@ function code() {
     document.getElementById('high-score').style.display = 'none';
 }
 
-var seconds = 75;
+var seconds = 60;
 function startTimer() {
     interval = setInterval(function() {
         document.getElementById("timer").textContent = seconds--
@@ -71,7 +71,7 @@ function checkAnswer(elementId) {
         document.getElementById("check").innerHTML = "Precisely!";
     } else {
         document.getElementById("check").innerHTML = "Wrong-O!";
-        seconds -= 10;
+        seconds -= 15;
     }
 }
 
